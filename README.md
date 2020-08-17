@@ -1,3 +1,3 @@
 # Small Tools
-TO DO:
-  - Make README
+
+Small tools for solving different problems.
